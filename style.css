@@ -1,0 +1,13 @@
+.banner {
+background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('Update\ cikal.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center center;
+height: 100vh;
+},
+
+.card-img-top {
+    height: 180px;           /* Set a fixed height for the images */
+    object-fit: cover;       /* Ensures images cover the area without distortion */
+}
